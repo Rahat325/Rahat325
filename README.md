@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rahat325
+- 👋 Hi, I’m @Rahat325 or just Rahat
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning Python, pseudocode, and C++
 - 💞️ I’m looking to collaborate on ...
